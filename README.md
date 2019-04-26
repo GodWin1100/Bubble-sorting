@@ -1,2 +1,3 @@
 # Bubble-sorting
-its idea
+It's idea and process after every element can be understand
+
